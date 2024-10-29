@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#673AB7</color>
+    <color name="blue">#2196F3</color>
+    <color name="lightgrey">#9E9E9E</color>
+
+
+
+    <color name="t1">#278b7d</color>
+    <color name="t2">#42a646</color>
+    <color name="t3">#80bb40</color>
+
+    <color name="m1">#5b32ad</color>
+    <color name="m2">#3547aa</color>
+    <color name="m3">#308bf1</color>
+
+    <color name="b1">#e51b57</color>
+    <color name="b2">#f23b2e</color>
+    <color name="b3">#ea9880</color>
+
+
+    <color name="i">#e3eb93</color>
+
+    <color name="mi1">#ed8f90</color>
+    <color name="mi2">#f384a7</color>
+    <color name="mi3">#c888d4</color>
+    <color name="mi4">#aa92d5</color>
+    <color name="mi5">#939ed4</color>
+
+    <color name="md">#ffdc77</color>
+
+    <color name="d1">#84c4f8</color>
+    <color name="d2">#75cffa</color>
+    <color name="d3">#74d9e7</color>
+    <color name="d4">#73c4bd</color>
+
+    <color name="d5_1">#ae191a</color>
+    <color name="d5_2">#7c1047</color>
+    <color name="d5_3">#411581</color>
+    <color name="d5_4">#0f3e97</color>
+    <color name="d5_5">#00555b</color>
+</resources>

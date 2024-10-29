@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejemplo</string>
+    <string name="vamos_a_hacer_un_login">Vamos a hacer un login</string>
+    <string name="login">Login</string>
+    <string name="escribe_tu_contrase_a">Escribe tu contraseña</string>
+    <string name="escribe_tu_usuario">Escribe tu usuario</string>
+</resources>
